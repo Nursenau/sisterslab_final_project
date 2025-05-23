@@ -1,0 +1,1 @@
+Bu proje Bitcoin veri analizi ve tahmini üzerine yapılmıştır.
