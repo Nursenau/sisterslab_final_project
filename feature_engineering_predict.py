@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Recursive Bitcoin Tahmini", layout="centered")
-st.title("🔁 Recursive Forecasting ile Bitcoin Tahmini")
+st.title("🔁 Lag-Based ile Bitcoin Tahmini")
 
 # Veriyi yükle
 df = pd.read_csv("data/btc_1d_data_2018_to_2025.csv")
